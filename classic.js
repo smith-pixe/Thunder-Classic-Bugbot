@@ -323,7 +323,7 @@ const virgamreply = async (teks) => {
 
 const genreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
+        title : `⫹⸙⧉𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪-𝑩𝑼𝑮𝑩𝑶𝑻⧉⸙⫺`,
         body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
@@ -404,7 +404,7 @@ reply(`${err}`)
 async function loading () {
 var hawemod = [
 
-` ★彡 𝘾𝙇𝘼𝙎𝙎𝙄𝘾 𝙑3 彡★ `
+` ★彡 𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪-𝑩𝑼𝑮𝑩𝑶𝑻 彡★ `
 ]
 let { key } = await zetsubo.sendMessage(from, {text: '@⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺.....'})//Pengalih isu
 
@@ -1097,7 +1097,7 @@ zetsubo.sendMessage(from, hiks, {quoted: zets })}
 break
 case 'pushmenu': {
 
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧*
+                            ewe = ` *𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪-𝑩𝑼𝑮𝑩𝑶𝑻*
    🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
     🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 ┏━━━━━━━━━━━━━━━━━━━
@@ -1111,7 +1111,7 @@ let hiks = {
 image: cewegw, 
   caption: ewe,
   contextInfo:{externalAdReply:{
-  title: '⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺',
+  title: '⫹⸙⧉𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪-𝑩𝑼𝑮𝑩𝑶𝑻⧉⸙⫺',
   body: '⫹⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⫺ᚖ𝑴𝒊𝑺𝑺𝒊𝒐𝑵ᚘᚙ', 
   showAdAttribution: true,
   thumbnail:hinachan,
@@ -1125,7 +1125,7 @@ break
 //=================================================//
 case 'groupmenu': {
 
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* 
+                            ewe = ` *𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪-𝑩𝑼𝑮𝑩𝑶𝑻* 
 🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
 🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
  
@@ -1167,7 +1167,7 @@ image: cewegw,
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://telegra.ph/file/abc3bf2c7cf369af6be5b.jpg`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1176,7 +1176,7 @@ break
 //=================================================//
 case 'downloadmenu': {
 
-                            ewe = ` *𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* 
+                            ewe = ` *𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪-𝑩𝑼𝑮𝑩𝑶𝑻* 
     🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
     🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 
@@ -1205,7 +1205,7 @@ image: cewegw,
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://telegra.ph/file/abc3bf2c7cf369af6be5b.jpg`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1214,7 +1214,7 @@ break
 //=================================================//
 case 'randommenu': {
 
-                            ewe = `*𝗖𝗟𝗔𝗦𝗦𝗜𝗖-𝗩3 𝗕𝗢𝗧* 
+                            ewe = `*𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪-𝑩𝑼𝑮𝑩𝑶𝑻* 
   🦋 𝐔𝐬𝐞𝐫 : ${pushname}}
   🗿 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 : @${m.sender.split('@')[0]}
 
@@ -1267,7 +1267,7 @@ image: cewegw,
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://telegra.ph/file/abc3bf2c7cf369af6be5b.jpg`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1322,7 +1322,7 @@ image: cewegw,
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://telegra.ph/file/abc3bf2c7cf369af6be5b.jpg`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
@@ -1405,7 +1405,7 @@ image: cewegw,
   showAdAttribution: true,
   thumbnail:hinachan,
   mediaType: 4,
-  MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
+  MediaUrl:`https://telegra.ph/file/abc3bf2c7cf369af6be5b.jpg`,
   sourceUrl:`https://www.instagram.com/ano_nymous_sam?utm_source=qr&igsh=MzNlNGNkZWQ4Mg==`,
   }}
   }
