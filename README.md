@@ -13,7 +13,7 @@
 
 ------
 
-# ```𝗕𝗢𝗧 𝗜𝗡𝗙𝗢:THUNDER-CLASSIC-BUGBOT^𝑬𝒔𝒕𝒂𝒃𝒍𝒊𝒔𝒉𝒆𝒅 𝒃𝒚 𝒄𝒐𝒍𝒍𝒊𝒏𝒔 𝒔𝒎𝒊𝒕𝒉```
+# ```𝗕𝗢𝗧 𝗜𝗡𝗙𝗢:𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪-𝑩𝑼𝑮𝑩𝑶𝑻(𝑬𝒔𝒕𝒂𝒃𝒍𝒊𝒔𝒉𝒆𝒅 𝒃𝒚 𝒄𝒐𝒍𝒍𝒊𝒏𝒔 𝒔𝒎𝒊𝒕𝒉)```
 <p align="center">
 <a href="https://github.com/smith-pixe/followers"><img title="Followers" src="https://img.shields.io/github/followers/Smith-pixe?color=red&style=flat-square"></a>
 <a href="https://github.com/smith-pixe/Thunder-Classic-Bugbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/smith-pixe/Thunder-Classic-Bugbot?color=blue&style=flat-square"></a>
