@@ -30,15 +30,15 @@
 -------
 
 ## ```Connect With Me```
-<p align="t.me/collin254">
+<p align=>
 
 <a href="https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk"><img src="https://img.shields.io/badge/WhatsApp ?style=for-the-badge&logo=whatsapp&logoColor=white&link=httpshttps://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk" /><br>
 
 
 ## ```Bot Support Group Chats```
 
-- [`GC`](https://chat.whatsapp.com/ETsxysQPYXxG1P8JQ1RQHV)
-- [`Channel`](https://whatsapp.com/channel/0029VaaqaSp0LKZDuwe5SI3e)
+- [`GC`](https://chat.whatsapp.com/BDoqiGgexOiCfMiZgNaR4d)
+- [`𝗰𝗼𝗻𝗻𝗲𝗰𝘁 𝘄𝗶𝘁𝗵 𝗺𝗲`](t.me/collin254)
 
 
 
