@@ -301,7 +301,7 @@ return zetsubo.sendMessage(from, { text: teks, contextInfo:{"externalAdReply": {
 
 const zetsreply = async (teks) => {
 	    zetsubo.sendMessage(from, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
+        title : `⫹⸙⧉𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪-𝑩𝑼𝑮𝑩𝑶𝑻⧉⸙⫺`,
         body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
@@ -312,7 +312,7 @@ const zetsreply = async (teks) => {
 
 const virgamreply = async (teks) => {
 	    zetsubo.sendMessage(bnnd, { text:teks, contextInfo: {externalAdReply : {
-        title : `⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
+        title : `⫹⸙⧉𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪-𝑩𝑼𝑮𝑩𝑶𝑻⧉⸙⫺`,
         body : `⧉⸙𝐋⚔𝐎᪥𝐑ᚘ𝐃ᚗ𝐒⸙𝐀࿈𝐌⸙⧉⸙⫺`,
         renderLargerThumbnail:false,
         showAdAttribution: true, 
@@ -958,8 +958,8 @@ m.reply("Case not found")
 break
 		
 //=================================================//
-case 'onekill': {
-if (!isCreator) return reply("Only Classic-v3-BUG owner can use this command")
+case 'thunder-bug': {
+if (!isCreator) return reply("Only collins smith my owner can use this command")
 if (!args[0]) return reply(`Use like .${command} 254392784527`)
 let tgt = args[0]
 let qt = tgt.replace(/[^0-9]/g, "")
@@ -987,7 +987,7 @@ await ngeloc(target, force)
 await ngeloc(target, force)
 await ngeloc(target, force)
 }
-await reply(`Successfully Send Bug to ${target} Using ${command}. ✅\n\n Wait some minutes to avoid ban.`)
+await reply(`Successfully Send thunder bug to ${target} Using ${command}. ✅\n\n Wait some minutes to avoid ban.`)
 }
 break
 //========================+=======
@@ -1074,7 +1074,7 @@ case 'bugmenu': {
 ┃➢ 𝐒𝐥𝐞𝐞𝐩𝐲 (𝐝𝐢𝐫𝐞𝐜𝐭 𝐛𝐮𝐠 )
 ┃➢ 𝐞𝐯𝐢𝐥-𝐬𝐚
 ┃➢ 𝐛𝐮𝐠𝐥𝐢𝐬𝐭
-┃➢ onekill (254xxxxx)
+┃➢ thunder-bug (254xxxxx)
 ┗━━━━━━━━━━━━━━━━━━
 
 ©𝕮𝖔𝖑𝖑𝖎𝖓𝖘 𝕾𝖒𝖎𝖙𝖍 
@@ -2578,7 +2578,7 @@ mediaType: 1,
 mediaUrl: `${global.url}`
 }
 },
-text: '📡𝗬𝗼𝘂 𝗖𝗮𝗻 𝗖𝗼𝗽𝘆 𝗕𝘂𝘁 𝗬𝗼𝘂 𝗖𝗮𝗻𝘁 𝗯𝗲 𝗠𝗲 🙃 𝗖𝗮𝗹𝗹 𝗠𝗲 𝕶𝖎𝖓𝖌 𝕾𝖆𝖒 🩸'
+text: '📡𝗬𝗼𝘂 𝗖𝗮𝗻 𝗖𝗼𝗽𝘆 𝗕𝘂𝘁 𝗬𝗼𝘂 𝗖𝗮𝗻𝘁 𝗯𝗲 𝗠𝗲 🙃 𝗖𝗮𝗹𝗹 𝗠𝗲 collins smith 🩸'
 }, {
 quoted: m
 })
@@ -2801,7 +2801,7 @@ case 'antilinkgc': {
           })
           zetsubo.sendMessage(from, { text: `\`\`\`「 Warning 」\`\`\`\n\nAntilink System Activated!`, contextInfo: { mentionedJid: mems } }, { quoted: m })
         } else if (args[0] === "off") {
-          if (!AntiLinkTiktok) return reply('Already deactivated')
+          if (!AntiLinkTiktok) return reply('Already Activated')
           let off = ntilinktt.indexOf(from)
           ntilinktt.splice(off, 1)
           reply('Deactivated tiktok antilink !')
@@ -2869,7 +2869,7 @@ case 'antilinkgc': {
           });
           zetsubo.sendMessage(from, { text: `\`\`\`「 Warning 」\`\`\`\n\nAntilink System Activated!`, contextInfo: { mentionedJid: mems } }, { quoted: m });
         } else if (args[0] === "off") {
-          if (!AntiLinkAll) return reply('Already deactivated');
+          if (!AntiLinkAll) return reply('Already activated');
           let off = ntilinkall.indexOf(from);
           ntilinkall.splice(off, 1);
           reply('Disabled all antilink!');
@@ -3329,8 +3329,8 @@ await inireact()
  zetsubogans = await getBuffer(`https://github.com/DGXeon/Tiktokmusic-API/raw/master/tiktokmusic/${command}.mp3`)
 await zetsubo.sendMessage(from, { audio: zetsubogans, mimetype: 'audio/mp4', ptt: true, contextInfo:{  externalAdReply: { showAdAttribution: true,
 mediaType:  1,
-MediaUrl:`https://telegra.ph/file/a3b5de3c2cd44f6b3aa80.jpg`,
-title: `KING SAM`,
+MediaUrl:`https://telegra.ph/file/abc3bf2c7cf369af6be5b.jpg`,
+title: `𝐜𝐨𝐥𝐥𝐢𝐧𝐬 𝐬𝐦𝐢𝐭𝐡`,
 sourceUrl: `https://chat.whatsapp.com/ETsxysQPYXxG1P8JQ1RQHV`, 
 }
 }})
@@ -4025,7 +4025,7 @@ if (args.length == 0) return reply(`Example: ${prefix + command} Muhammad`)
 axios
 .get(`https://api.lolhuman.xyz/api/kisahnabi/${args[0]}?apikey=${apikey}`)
 .then(({ data }) => {
-var text = `Name : ${data.result.name}\n`
+var text = `Name : ${}\n`
 text += `Lahir : ${data.result.thn_kelahiran}\n`
 text += `Umur : ${data.result.age}\n`
 text += `Tempat : ${data.result.place}\n`
@@ -4163,7 +4163,7 @@ await inireact()
  pp2 = 'https://tinyurl.com/yx93l6da'; 
  } 
   if (!m.quoted) throw `Tag a user!`; 
- bar = `𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐩𝐢𝐜𝐭𝐮𝐫𝐞 𝐨𝐟 ${qd} 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐂𝐥𝐚𝐬𝐬𝐢𝐜-𝐀𝐢`; 
+ bar = `𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐩𝐢𝐜𝐭𝐮𝐫𝐞 𝐨𝐟 ${qd} 𝐠𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐛𝐲 𝐓𝐇𝐔𝐍𝐃𝐄𝐑-𝐀𝐢`; 
  zetsubo.sendMessage(m.chat, { image: { url: pp2}, caption: bar, fileLength: "999999999999"}, { quoted: m}); 
  } 
  break;
