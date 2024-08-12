@@ -1,6 +1,6 @@
  
 
-<h1 align="center">ꪶ𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪-𝑩𝑼𝑮𝑩𝑶𝑻ꫂ<br></h1>
+<h1 align="center">☠︎︎☠︎︎𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪-𝑩𝑼𝑮𝑩𝑶𝑻☠☠︎︎<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/a859713071d35ccfa1503.jpg"/>
 </p>
