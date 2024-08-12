@@ -1,12 +1,12 @@
  
 
-<h1 align="center">ꪶ𝘾𝙡𝙖𝙨𝙨𝙞𝙘 𝗕𝗼𝘁-𝗩3ꫂ<br></h1>
+<h1 align="center">ꪶ𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪-𝑩𝑼𝑮𝑩𝑶𝑻ꫂ<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/a2e5d1851171e21e7ba82.jpg"/>
+<img src="https://telegra.ph/file/a859713071d35ccfa1503.jpg"/>
 </p>
 
 <p align="center">
-𝘾𝙡𝙖𝙨𝙨𝙞𝙘 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/Samu-el1" target="_blank">Sam</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+ 𝑻𝑯𝑼𝑵𝑫𝑬𝑹-𝑪𝑳𝑨𝑺𝑺𝑰𝑪 Multi Device is a whatsapp bot created by <a href="https://github.com/smith-pixe" target="_blank">Sam</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 
 
