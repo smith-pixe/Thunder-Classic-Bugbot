@@ -44,17 +44,16 @@
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [`Here`](https://github.com/Samue-l1/Classic-v3-BUG/fork)
+- FORK THE REPOSITORY [`Here`](https://github.com/smith-pixe/Thunder-Classic-Bugbot/fork)
 
 ## `Generate Pair Code For Session`
 
-[`Thunder-Classic-Bugbot Pairing Using Render`](https://classic-v3-session.onrender.com)
+[`Thunder-Classic-Bugbot Pairing`](https://colinscode-c78a4b64dd94.herokuapp.com/pair)
 
-[`Thunder-Classic-Bugbot Pairing using Replit`](https://replit.com/@pesguru02/Classic-Pairing?s=app)
+[`Thunder-Classic-Bugbot Qr code`](https://colinscode-c78a4b64dd94.herokuapp.com/qr)
 
-[`HOW TO DEPLOY ON HEROKU VIDEO TUTORIAL`](https://youtu.be/b5gpcwPvtgk?si=Ybg9m7gyDjh9gEwn)
-
-[`HOW TO AUTO DEPLOY DIRECT ON GITHUB`](https://youtu.be/-aOIDVebImo?si=TTl9GayCy3VD5z85)
+[`HOW TO DEPLOY ON HEROKU VIDEO TUTORIAL`]()
+[`HOW TO AUTO DEPLOY DIRECT ON GITHUB`]()
 
 [`HOW TO RESTART WHEN THE BOT GOES OFF`](https://youtube.com/shorts/o0uLn17pRRs?si=i4VVlhSZLoFdk94u)
 
