@@ -3118,7 +3118,7 @@ case 'ping': {
         key: pingMsg.key,
         type: 14,
         editedMessage: {
-          conversation: `*𝑻ʰᵘⁿᵈᵉʳ-𝑪ˡᵘˢˢⁱᶜ-𝑩ᵘᵍᵇᵒᵗ➟ ${new Date() - startTime}* 𝐌/𝐒`
+          conversation: `*𝑻ʰᵘⁿᵈᵉʳ-𝑪ˡᵘˢˢⁱᶜ-𝑩ᵘᵍᵇᵒᵗ* ➟ ${new Date() - startTime}* 𝐌/𝐒`
         }
       }
     }, {});
