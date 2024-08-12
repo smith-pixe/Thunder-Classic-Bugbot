@@ -44,7 +44,7 @@
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [`Here`](https://github.com/smith-pixe/Thunder-Classic-Bugbot/fork)
+- 𝗙𝗢𝗥𝗞 THE REPOSITORY👉 [`Here`](https://github.com/smith-pixe/Thunder-Classic-Bugbot/fork)
 
 ## `Generate Pair Code For Session`
 
