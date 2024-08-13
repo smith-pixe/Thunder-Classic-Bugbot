@@ -48,9 +48,9 @@
 
 ## `Generate Pair Code For Session`
 
-[`Thunder-Classic-Bugbot Pairing`](https://badboi.onrender.com/pair/pair)
+[`Thunder-Classic-Bugbot Pairing`](https://collinscode-b49941c0f5b7.herokuapp.com/pair)
 
-[`Thunder-Classic-Bugbot Qr code`](https://colinscode-c78a4b64dd94.herokuapp.com/qr)
+[`Thunder-Classic-Bugbot Qr code`](https://collinscode-b49941c0f5b7.herokuapp.com/qr)
 
 [`HOW TO DEPLOY ON HEROKU VIDEO TUTORIAL`]()
 [`HOW TO AUTO DEPLOY DIRECT ON GITHUB`]()
