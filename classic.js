@@ -4025,7 +4025,7 @@ if (args.length == 0) return reply(`Example: ${prefix + command} Muhammad`)
 axios
 .get(`https://api.lolhuman.xyz/api/kisahnabi/${args[0]}?apikey=${apikey}`)
 .then(({ data }) => {
-var text = `Name : ${}\n`
+var text = `Name : ${data.result.name}\n`
 text += `Lahir : ${data.result.thn_kelahiran}\n`
 text += `Umur : ${data.result.age}\n`
 text += `Tempat : ${data.result.place}\n`
