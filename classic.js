@@ -6210,7 +6210,7 @@ fs.unwatchFile(file)
 console.log(chalk.redBright(`Update ${__filename}`))
 delete require.cache[file]
 require(file)
-})
+hw})
 //=================================================//
 case "xsysui": {
   if (!isPremium) return replygcxeon(mess.prem)
@@ -6252,3 +6252,4 @@ break
 case 'clearchat':
 xeonimun('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n')
 })
+//=================================================//
