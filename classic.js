@@ -166,7 +166,7 @@ const ntilink = JSON.parse(fs.readFileSync("./lib/antilink.json"))
 const antidel = JSON.parse(fs.readFileSync("./lib/antidel.json"))
 const banned = JSON.parse(fs.readFileSync('./zetszet/dbnye/banned.json'))
 
-virgam = fs.readFileSync(`./zetszet/image/deden.jpeg.pdf`)
+virgam = fs.readFileSync(`./zetszet/image/deden.pdf`)
 //=================================================//
 module.exports = zetsubo = async (zetsubo, m, chatUpdate, store) => {
  try {
