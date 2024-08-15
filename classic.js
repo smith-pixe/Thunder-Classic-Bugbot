@@ -155,7 +155,7 @@ const rimuwu = fs.readFileSync(`./kawai/rimuwu.jpg`)
 const sangean = fs.readFileSync(`./kawai/sangean.jpg`)
 const sikanna = fs.readFileSync(`./kawai/sikanna.jpg`)
 const notprem = fs.readFileSync(`./kawai/notprem.webp`)
-const kosongjpg = fs.readFileSync ('./zetszet/image/deden.pdf')
+const dedenpdf = fs.readFileSync ('./zetszet/image/deden.pdf')
 const pengguna = JSON.parse(fs.readFileSync('./database/user.json'))
 const owner = JSON.parse(fs.readFileSync('./premium.json'))
 const vnnye = JSON.parse(fs.readFileSync('./database/vnadd.json'))
@@ -252,7 +252,7 @@ const salam2 = moment(Date.now()).tz("Africa/Nairobi").locale("id").format("a")
 //=================================================//}
 const zets = { key: { fromMe: false, participant: `0@s.whatsapp.net`, ...(from ? {remoteJid :"status@broadcast" }: {})},
  message:{"orderMessage":{"orderId":"174238614569438",
- "thumbnail":deden.pdf, //image 0kb
+ "thumbnail":dedenpdf, //image 0kb
  "itemCount":999999999,
  "status":"INQUIRY","surface":"CATALOG","message":`⫹⸙⧉𝐂𝐋𝐀𝐒𝐒𝐈𝐂-𝐕3⧉⸙⫺`,
  "token":"AR6xBKbXZn0Xwmu76Ksyd7rnxI+Rx87HfinVlW4lwXa6JA==" }},
