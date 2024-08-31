@@ -1020,7 +1020,6 @@ zetsreply(`Successfully Changed Auto Bio To ${q}`)
 db.data.settings[botNumber].autobio = false
 joreply(`Successfully Changed Auto Bio To ${q}`)
 }
-break
 //========================+=======
 case "menutype":
 if (!isCreator) return reply('*𝐏𝐫𝐞𝐦𝐢𝐮𝐦 𝐮𝐬𝐞𝐫𝐬 𝐨𝐧𝐥𝐲*')
